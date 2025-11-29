@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Porat;Elad;;;
+FN:Elad Porat
+ORG:Willow Ventures LLC
+TITLE:Managing Member
+TEL;TYPE=cell,voice;Mobile=tel:(713)367-1638
+EMAIL:eli@gmail.com
+ADR;TYPE=work;Address="1942 W Gray St Unit #434\nHouston, TX 77019\nUSA":;;1942 W Gray St Unit #434;Houston;TX;77019;USA
+END:VCARD
