@@ -2,9 +2,11 @@ BEGIN:VCARD
 VERSION:3.0
 N:Porat;Elad;;;
 FN:Elad Porat
+PHOTO;MEDIATYPE=image/jpeg:
 ORG:Willow Ventures LLC
 TITLE:Managing Member
 TEL;TYPE=CELL,VOICE:(713)367-1638
 EMAIL;TYPE=INTERNET:elad@willow-ventures.com
 ADR;TYPE=WORK:;;1942 W Gray St Unit #434;Houston;TX;77019;USA
 END:VCARD
+
