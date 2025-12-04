@@ -7,8 +7,5 @@ TITLE:Managing Member
 TEL;TYPE=CELL,VOICE:(713)367-1638
 EMAIL;TYPE=INTERNET:elad@willow-ventures.com
 ADR;TYPE=WORK:;;1942 W Gray St Unit #434;Houston;TX;77019;USA
-PHOTO;TYPE=JPG;VALUE=uri:https://raw.githubusercontent.com/aldotempo/willow-ventures.com/main/Logo.jpg
+PHOTO;TYPE=JPEG;VALUE=uri:https://raw.githubusercontent.com/aldotempo/willow-ventures.com/main/Logo.jpg
 END:VCARD
-
-
-
